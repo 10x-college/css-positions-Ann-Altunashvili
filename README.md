@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Y11dLxWO)
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AK-am-zN)
 
 ### დავალება: "CSS Positions" - დიზაინის იმპლემენტაცია
@@ -26,7 +27,15 @@ https://www.figma.com/design/opLphKmHq2loVdSZdqGywv/skilled-elearning-landing-pa
 1. გადაიღეთ აწყობილი გვერდის სურათი (Screenshot) და დაარქვით სახელი (`preview.png`).
 2. ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში (კოდის ფაილებთან ერთად).
 
-![Design Preview](./preview.png)
+1. skilled e-learning landing page:
+link <a href="https://ann-altunashvili.github.io/Skilled-e-learning-landing-page/"></a>
+![Design Preview](./Skilled-e-learning-page/preview-desktop.png).
+![Design Preview](./Skilled-e-learning-page/preview-mobile%20version.png).
+
+2. Profile Card Component:
+![Design Preview](./profile%20card%20component/assets/preview.png).
+[ნამუშევრის ლინკი](https://ann-altunashvili.github.io/Profile-Card-Component/)
+
 
 #### 🚀 (Optional) ჰოსტინგი
 
