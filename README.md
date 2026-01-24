@@ -27,7 +27,10 @@ https://www.figma.com/design/opLphKmHq2loVdSZdqGywv/skilled-elearning-landing-pa
 1. გადაიღეთ აწყობილი გვერდის სურათი (Screenshot) და დაარქვით სახელი (`preview.png`).
 2. ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში (კოდის ფაილებთან ერთად).
 
-![Design Preview](./preview.png)
+1. skilled e-learning landing page:
+link <a href="https://ann-altunashvili.github.io/Skilled-e-learning-landing-page/"></a>
+page video screen --> 
+<video src="./Skilled-e-learning-page/Screen-video.preview.mp4">
 
 #### 🚀 (Optional) ჰოსტინგი
 
