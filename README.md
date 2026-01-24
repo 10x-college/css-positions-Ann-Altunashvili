@@ -29,8 +29,8 @@ https://www.figma.com/design/opLphKmHq2loVdSZdqGywv/skilled-elearning-landing-pa
 
 1. skilled e-learning landing page:
 link <a href="https://ann-altunashvili.github.io/Skilled-e-learning-landing-page/"></a>
-page video screen --> 
-<video src="./Skilled-e-learning-page/Screen-video.preview.mp4">
+![Design Preview](./Skilled-e-learning-page/preview-desktop.png).
+![Design Preview](./Skilled-e-learning-page/preview-mobile%20version.png).
 
 #### 🚀 (Optional) ჰოსტინგი
 
