@@ -34,7 +34,7 @@ link <a href="https://ann-altunashvili.github.io/Skilled-e-learning-landing-page
 
 2. Profile Card Component:
 ![Design Preview](./profile%20card%20component/assets/preview.png).
-github link: https://ann-altunashvili.github.io/Profile-Card-Component/
+[ნამუშევრის ლინკი](https://ann-altunashvili.github.io/Profile-Card-Component/)
 
 
 #### 🚀 (Optional) ჰოსტინგი
