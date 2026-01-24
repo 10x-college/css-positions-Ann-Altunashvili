@@ -32,6 +32,10 @@ link <a href="https://ann-altunashvili.github.io/Skilled-e-learning-landing-page
 ![Design Preview](./Skilled-e-learning-page/preview-desktop.png).
 ![Design Preview](./Skilled-e-learning-page/preview-mobile%20version.png).
 
+2. Profile Card Component:
+![Design Preview](./profile%20card%20component/assets/preview.png).
+
+
 #### 🚀 (Optional) ჰოსტინგი
 
 სასურველია (მაგრამ არასავალდებულო) ნამუშევრის ატვირთვა **GitHub Pages**-ზე, რათა შედეგი ლინკის სახით იყოს ხელმისაწვდომი.

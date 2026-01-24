@@ -1,0 +1,156 @@
+/** {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1440px;
+    height: 100%;
+    background: var(--colors-blue-600, #19A1AE);
+    display: flex;
+    position: relative;
+}
+
+.main-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform: none;
+    top: auto;
+    left: auto;
+    overflow: hidden;
+}*/
+/* Make 100% copy of design from Figma! */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: center;
+    min-height: 100vh;
+    background: var(--colors-blue-600, #19A1AE);
+    position: relative;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+.background-photo {
+    height: 100%;
+    width: 100%;
+}
+
+.main-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform: none;
+    top: auto;
+    left: auto;
+    overflow: hidden;
+}
+
+.profile-card {
+    width: 350px;
+    height: 350px;
+    background-color: #fff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    position: absolute;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0px 50px 100px -20px rgba(8, 70, 94, 0.25);
+    cursor: pointer;
+}
+
+.profile-card:hover {
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2);
+}
+
+.hero-profile {
+    background-color: #41CBD3;
+    background-image: url(./assets/cover.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 144px;
+    border-radius: 15px 15px 0px 0px;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.hero-photo {
+    width: 96px;
+    height: 96px;
+    background-image: url(./assets/hero-photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    border-radius: 50%;
+    border-color: white;
+
+    transform: translate(-50%, 50%);
+}
+
+.profile-info h3 {
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.profile-info h4 {
+    text-align: center;
+    font-weight: 400;
+    color: #6B7082;
+    font-size: 14px;
+}
+
+.hero-age {
+    color: #6B7082;
+    font-weight: 400;
+}
+
+h4::after {
+    content: "";
+    display: block;
+    width: 100%;
+    border: 1px solid var(--colors-gray-100, #E8E9EC);
+    margin-top: 20px;
+}
+
+.profile-data {
+    min-height: 70px;
+    margin-top: 30px;
+    display: block;
+    text-align: center;
+}
+
+.profile-data .data {
+    width: 70px;
+    display: inline-block;
+    align-content: center;
+    align-items: center;
+    color: #6B7082;
+    font-size: 10px;
+    letter-spacing: 1.5px;
+}
+
+.numbers {
+    color: #2E3349;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 125%; 
+}
